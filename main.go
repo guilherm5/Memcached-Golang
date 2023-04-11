@@ -7,6 +7,7 @@ import (
 
 func main() {
 	router := gin.New()
+	router.Use(gin.LoggerWithFormatter(nil))
 
 	routes.Users(router)
 
