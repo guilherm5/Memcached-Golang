@@ -12,7 +12,7 @@ GO (Programming Language)
 
 ### Here is an example of how memcached works in practice:
 
-![Exemplo de GIF animado](http://g.recordit.co/pOVPIv14bl.gif)
+![Exemplo de GIF animado](example.gif)
 
 
 #### Here's an explanation of what happened above:
